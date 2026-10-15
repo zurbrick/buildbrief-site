@@ -1,0 +1,16 @@
+# The Build Brief
+
+> A free five-minute AI brief for people who build, delivered every weekday at 7:30 AM ET. Published by Zye.AI.
+
+## What's in each issue
+- The one thing that matters today
+- 5-8 items grouped by theme: AI and models, agents, vibe coding, tech and security, each with a source link
+- Try this today: one practical tip
+- Fix of the day: a real bug (identifying details removed) and how it was fixed
+- Fridays: shorter weekend-build edition with a gaming corner
+
+## Key links
+- [Subscribe (free)](https://buildbrief.zye.ai/#subscribe)
+- [Unbroke](https://unbroke.zye.ai/): fix service for broken vibe-coded apps, from the same team
+- [Zye.AI](https://zye.ai/)
+- Contact: hello@zye.ai
