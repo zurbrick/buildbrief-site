@@ -1,13 +1,12 @@
 # The Build Brief
 
-> A free five-minute AI brief for people who build, delivered every weekday at 7:30 AM ET. Published by Zye.AI.
+> A free five-minute AI brief for people who build with AI. Join the list. First issue coming soon. Published by Zye.AI.
 
 ## What's in each issue
-- The one thing that matters today
+- The one thing that matters most
 - 5-8 items grouped by theme: AI and models, agents, vibe coding, tech and security, each with a source link
 - Try this today: one practical tip
-- Fix of the day: a real bug (identifying details removed) and how it was fixed
-- Fridays: shorter weekend-build edition with a gaming corner
+- Featured fix: a real bug (identifying details removed) and how it was fixed
 
 ## Key links
 - [Subscribe (free)](https://buildbrief.zye.ai/#subscribe)
